@@ -9,7 +9,7 @@ export default {
         "url": "/item2"
       },
       {
-        "name": "Sales Report Pack",
+        "name": "Sales Reports",
         "children": [
           {
             "name": "Child31",
@@ -26,14 +26,14 @@ export default {
         ]
       },
       {
-        "name": "Management Accounts Pack",
+        "name": "Finance Reports",
         "children": [
           {
-            "name": "Child41",
+            "name": "P & L",
             "url": "/child41"
           },
           {
-            "name": "Child42",
+            "name": "Cash Flow",
             "url": "/child42"
           },
           {
