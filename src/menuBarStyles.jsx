@@ -5,7 +5,7 @@ const useStyles = makeStyles(theme => ({
     justifyContent : "left",
   },
   drawer : {
-    paddingTop : "20px",
+    paddingTop : "150px",
     width: "250px",
   },
   item: {

@@ -30,7 +30,7 @@ export default {
         "children": [
           {
             "name": "P & L",
-            "url": "/child41"
+            "url": "/Report/P&L"
           },
           {
             "name": "Cash Flow",
